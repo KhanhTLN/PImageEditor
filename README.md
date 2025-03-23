@@ -47,5 +47,50 @@ Dự án này là một ứng dụng xử lý ảnh được phát triển bằn
 ```
 
 ## [Tính năng chính]
-### Màn hình đăng nhập:
+### Màn hình đăng nhập
+![![alt text](image-1.png)](image.png)
 
+### Bộ lọc ảnh
+- Ta có ảnh gốc:
+![alt text](INPUT.jpg)
+
+- Bộ lọc đen trắng (Grayscale):
+![alt text](image-2.png)
+
+- Làm mờ (Blur):
+![alt text](image-3.png)
+
+- Bộ lọc âm bản (Negative):
+![alt text](image-4.png)
+
+- Bộ lọc nổi khối (Emboss):
+![alt text](image-5.png) 
+
+... và nhiều bộ lọc khác
+
+### [Chỉnh sửa ảnh]
+- Xoay ảnh:
+![alt text](image-6.png)
+
+- Lật ảnh:
+![alt text](image-7.png)
+
+- Điều chỉnh độ sáng bằng thanh điều chỉnh:
+![alt text](image-8.png)
+
+... và nhiều thao tác khác 
+
+### [Quản lý ảnh]
+- Mở ảnh từ máy tính:
+![alt text](image-9.png)
+
+- Lưu ảnh:
+![alt text](image-10.png)
+
+- Thao tác Undo/Redo:
+![alt text](image-11.png)
+
+### [Liên hệ]
+- Tác giả: Trần Lê Nam Khánh
+- Email: tranlenamkhanh2k5@gmail.com
+@PImageEditor
